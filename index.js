@@ -20,7 +20,7 @@ const FESTIVALS = Object.freeze({
 });
 
 setImmediate(async () => {
-    // const currentRotation = require("./currentRotation.json");
+    const currentRotation = require("./currentRotation.json");
     const newRotation = {};
     const difference = {};
 
@@ -29,7 +29,7 @@ setImmediate(async () => {
         let poolRotation = await (await fetch(`https://mapapi.cecer1.com/mappool/${pool}`)).json();
         newRotation[pool] = poolRotation.map(id => capitalise(maps[id].name));
 
-        // difference[pool] = getDifference(currentRotation[pool], newRotation[pool]);
+        difference[pool] = getDifference(currentRotation[pool], newRotation[pool]);
     }
 
     console.log(newRotation);
