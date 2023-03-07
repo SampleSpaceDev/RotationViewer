@@ -1,0 +1,538 @@
+{
+  "64d9763fb6b93eb2f3ab91607ea2936b": {
+    "name": "acropolis",
+    "festival": "NONE"
+  },
+  "fceabfb5c33bba8c54b7d7488882f4ab": {
+    "name": "airshow",
+    "festival": "NONE"
+  },
+  "154bbfe54301ee663eabec3b6f5544cf": {
+    "name": "amazon",
+    "festival": "NONE"
+  },
+  "76a071d9e7bfabf193cdb4f7fff566a1": {
+    "name": "apollo",
+    "festival": "NONE"
+  },
+  "68d20c4471eba58a62677e68deebdd54": {
+    "name": "aqil",
+    "festival": "NONE"
+  },
+  "7f573df1eccb0b2a9cbba9d8e062039f": {
+    "name": "ashfire",
+    "festival": "NONE"
+  },
+  "ed5958c3de636ca92f964f7df66f26f8": {
+    "name": "babylon",
+    "festival": "NONE"
+  },
+  "b2dc955ca324ccdda2512fe3ca807aa7": {
+    "name": "bio-hazard",
+    "festival": "NONE"
+  },
+  "70a0309f9e5c0ea2fbc1533566b2bcf9": {
+    "name": "capture",
+    "festival": "NONE"
+  },
+  "726699bb1a84665345d1840740db8f8a": {
+    "name": "cascade",
+    "festival": "NONE"
+  },
+  "a99cbacb0b0068f4ef71661a2e812803": {
+    "name": "casita",
+    "festival": "NONE"
+  },
+  "c552e1a975e83782454684186bc297a6": {
+    "name": "cliffside",
+    "festival": "NONE"
+  },
+  "aa12f863cb1e22953b73e92c3f677d6f": {
+    "name": "crogorm",
+    "festival": "NONE"
+  },
+  "9804158cf771cdb4c294eac787652e81": {
+    "name": "crypt",
+    "festival": "NONE"
+  },
+  "5ff151f7b365243482a1e2e3f094453c": {
+    "name": "deadwood",
+    "festival": "NONE"
+  },
+  "9d1b433d21823974efadf0175b8ed334": {
+    "name": "dockyard",
+    "festival": "NONE"
+  },
+  "1c69c2b9d89cc88879428a28de862ce4": {
+    "name": "dragonstar",
+    "festival": "NONE"
+  },
+  "d5017418dee9e35e3346f5fa0ba23895": {
+    "name": "easter basket",
+    "festival": "EASTER"
+  },
+  "a9e421474249c69ae5006ff0fa35ecb0": {
+    "name": "easter garden",
+    "festival": "EASTER"
+  },
+  "5e6b2cc7cc6002180ba59b402eabfc05": {
+    "name": "egg hunt",
+    "festival": "EASTER"
+  },
+  "120cf827666247d526ef90b790fc364a": {
+    "name": "sunflower",
+    "festival": "EASTER"
+  },
+  "79bdc6a41309155bb8d23c43c97a7ea2": {
+    "name": "gateway",
+    "festival": "NONE"
+  },
+  "1d475692a90bf07289b4b649b524884f": {
+    "name": "glacier",
+    "festival": "NONE"
+  },
+  "c43e78bbbffe8864c70d14ff0e9477ac": {
+    "name": "darkened",
+    "festival": "HALLOWEEN"
+  },
+  "e4f818be97dab3cd8d3ef3a65ce75064": {
+    "name": "ominosity",
+    "festival": "HALLOWEEN"
+  },
+  "b717d8d44cd62dd9c013eef3374086e4": {
+    "name": "scareshow",
+    "festival": "HALLOWEEN"
+  },
+  "f56141835d86134e5a2ca686ca44256f": {
+    "name": "screamway",
+    "festival": "HALLOWEEN"
+  },
+  "e75b8f34d5da1ec2fa3d244f62c40fab": {
+    "name": "steampumpkin",
+    "festival": "HALLOWEEN"
+  },
+  "646107d7930d2b5df8c49a181c8ffe25": {
+    "name": "trick or yeet",
+    "festival": "HALLOWEEN"
+  },
+  "a99bc1228f2cb6eeee2e4b41853126e2": {
+    "name": "harvest",
+    "festival": "NONE"
+  },
+  "ac42d937f010074bbe60708a89346f39": {
+    "name": "hollow",
+    "festival": "NONE"
+  },
+  "3af18ec1f527c4328ce07fc57f010148": {
+    "name": "ironclad",
+    "festival": "NONE"
+  },
+  "f7826a0862385235e8da39b7f71dd7a3": {
+    "name": "lighthouse",
+    "festival": "NONE"
+  },
+  "e20259b5ede16f812a784a23692dd9a9": {
+    "name": "lightstone",
+    "festival": "NONE"
+  },
+  "87a4a549e749aebdf5a9e806fb455699": {
+    "name": "lotus",
+    "festival": "NONE"
+  },
+  "a24a27a1b4fe27ce31cdfdffe40eba45": {
+    "name": "lucky rush",
+    "festival": "NONE"
+  },
+  "2cbf884c6b88e1feb7ac069caaa4aa9d": {
+    "name": "blossom",
+    "festival": "LUNAR"
+  },
+  "1ab6e794caf12c3c71410102660e304c": {
+    "name": "lunarhouse",
+    "festival": "LUNAR"
+  },
+  "5aa16a3a59bc224bf3798aa9ed616c34": {
+    "name": "toro",
+    "festival": "LUNAR"
+  },
+  "a7585a04a3d3f453e4e5d6cfc29a4d8c": {
+    "name": "tuzi",
+    "festival": "LUNAR"
+  },
+  "80025c27d9f6cde75d11acd9b1200179": {
+    "name": "yue",
+    "festival": "LUNAR"
+  },
+  "4aad50ad65314a55a417de7b854ddbd5": {
+    "name": "meso",
+    "festival": "NONE"
+  },
+  "83afc8cf3c42738f6437e8f76be599d8": {
+    "name": "mirage",
+    "festival": "NONE"
+  },
+  "f061f4caf745db5cf3fd21ec58ad3dd8": {
+    "name": "orbit",
+    "festival": "NONE"
+  },
+  "608493ef1a0ca704282cecee483ef24f": {
+    "name": "orchestra",
+    "festival": "NONE"
+  },
+  "a1cc3e3196d09adedc23142d142de7de": {
+    "name": "pavilion",
+    "festival": "NONE"
+  },
+  "22b41bdc1a14f60ffb56bf3adad7927b": {
+    "name": "pernicious",
+    "festival": "NONE"
+  },
+  "90615cd388f63068cc28a07d7ef1a68c": {
+    "name": "playground",
+    "festival": "NONE"
+  },
+  "f0a08e8bbbfe19f70f27594dcec55b7f": {
+    "name": "polygon",
+    "festival": "NONE"
+  },
+  "df988372e9f00fe8c1b9bf5a74da3e42": {
+    "name": "rooftop",
+    "festival": "NONE"
+  },
+  "43799a02daad962e78540cfee79e6da8": {
+    "name": "rooted",
+    "festival": "NONE"
+  },
+  "2f83ef34662375cbaaf0b83be5dcedaf": {
+    "name": "scorched sands",
+    "festival": "NONE"
+  },
+  "60799e5cfeabf25cf2749c770caa8136": {
+    "name": "serenity",
+    "festival": "NONE"
+  },
+  "c8b752d96c8aac05aa123035dca38971": {
+    "name": "siege",
+    "festival": "NONE"
+  },
+  "720b54c58ff3e21fcc386d892de49d51": {
+    "name": "sky rise",
+    "festival": "NONE"
+  },
+  "5b57e0bec278b0cf3a65b643fbca0fbb": {
+    "name": "solace",
+    "festival": "NONE"
+  },
+  "66531bf2c91ae40b46f4ab05dafa90ee": {
+    "name": "speedway",
+    "festival": "NONE"
+  },
+  "359a598e74febcf0224365fe8eb42e22": {
+    "name": "steampunk",
+    "festival": "NONE"
+  },
+  "ee96bb7b6c66b5014e14ce0219a8bd06": {
+    "name": "fruitbrawl",
+    "festival": "SUMMER"
+  },
+  "22d3eb4f7c86d1f9f17d7873debadf87": {
+    "name": "gelato",
+    "festival": "SUMMER"
+  },
+  "191d58cedb065b603ae3641d9bd329af": {
+    "name": "symphonic",
+    "festival": "SUMMER"
+  },
+  "210b1b9e18df4e0df5f0a68970938fa9": {
+    "name": "waterfall",
+    "festival": "NONE"
+  },
+  "e4d23c1ee641321c06d272513b5dd037": {
+    "name": "blitzen",
+    "festival": "WINTER"
+  },
+  "20eb8e2dae79ac0dd72ffa03451d8a31": {
+    "name": "fireplace",
+    "festival": "WINTER"
+  },
+  "b1f7222adc685353739e1f8b499b6850": {
+    "name": "frosted",
+    "festival": "WINTER"
+  },
+  "b21c8f0bdfa654451b321d4a3b5d6c22": {
+    "name": "lotice",
+    "festival": "WINTER"
+  },
+  "2d8a1f2d523b88c5a136540aaeeb7711": {
+    "name": "nutcracker",
+    "festival": "WINTER"
+  },
+  "fa7e12e2151e632290d96bb8fb19c795": {
+    "name": "winterland",
+    "festival": "WINTER"
+  },
+  "53883064d44ca0fe64a207ca404af9be": {
+    "name": "zarzul",
+    "festival": "NONE"
+  },
+  "e280c2e4d14285eec6d31366968c3772": {
+    "name": "aquarium",
+    "festival": "NONE"
+  },
+  "d5873c6d17f6eb66f9a2d80c6d9768d5": {
+    "name": "archway",
+    "festival": "NONE"
+  },
+  "62bf06e4a76c1bb97bcf3f9f2f6a9155": {
+    "name": "artemis",
+    "festival": "NONE"
+  },
+  "c3bf05f53883daa7d296c8b4e2afb241": {
+    "name": "ashore",
+    "festival": "NONE"
+  },
+  "a2101bd743dcc9b05cfa63d3f9f9701a": {
+    "name": "boletum",
+    "festival": "NONE"
+  },
+  "e4e72ee3a46ddd05a2c7becf8b7cdf0a": {
+    "name": "build site",
+    "festival": "NONE"
+  },
+  "ccc537aceb13c52ccf38ff097105431a": {
+    "name": "carapace",
+    "festival": "NONE"
+  },
+  "3b0ff0dc4d9ca210b45030a177e8dfdc": {
+    "name": "catalyst",
+    "festival": "NONE"
+  },
+  "6ba283f98dce352fec51ce4e2101e09d": {
+    "name": "chained",
+    "festival": "NONE"
+  },
+  "0caf1eaed95cb9a80dba4fca82f90c73": {
+    "name": "daolong",
+    "festival": "NONE"
+  },
+  "232166e0f964fcd02fc018bc033d9b3f": {
+    "name": "deposit",
+    "festival": "NONE"
+  },
+  "35bae77ed68ad4762d1604458bd77566": {
+    "name": "dreamgrove",
+    "festival": "NONE"
+  },
+  "2c521f53c7bfe8a3089452c38b75b062": {
+    "name": "burrow",
+    "festival": "EASTER"
+  },
+  "e0d9067b1cbca3327ed8e4a4795f9b17": {
+    "name": "egg run",
+    "festival": "EASTER"
+  },
+  "b9920cc026b370d5f7eef9c8a3a89270": {
+    "name": "springtide",
+    "festival": "EASTER"
+  },
+  "1c83240669e547daa9d8be6e5d6c5814": {
+    "name": "eastwood",
+    "festival": "NONE"
+  },
+  "d3259371cf6171f5ccf8073b87baf512": {
+    "name": "enchanted",
+    "festival": "NONE"
+  },
+  "bf92e1a0aa6df3fb32c84e5c56c91708": {
+    "name": "extinction",
+    "festival": "NONE"
+  },
+  "cc236eb8f6d3bd7e68899a2d95e268c3": {
+    "name": "fang outpost",
+    "festival": "NONE"
+  },
+  "554691d8c5e90709cb23295e52a7a92a": {
+    "name": "fort doon",
+    "festival": "NONE"
+  },
+  "4597825200b9cc17ff16311a9244da58": {
+    "name": "frogiton",
+    "festival": "NONE"
+  },
+  "7ecb3ccefef0c687785717bf78f910ea": {
+    "name": "graveship",
+    "festival": "NONE"
+  },
+  "b9dccc89bfd00b839eda0c52311920bb": {
+    "name": "alaric",
+    "festival": "HALLOWEEN"
+  },
+  "4962544c4a29b67fd7e5d48d00d124bf": {
+    "name": "cauldron",
+    "festival": "HALLOWEEN"
+  },
+  "716fccfcb0d7546965afa5678ac58b51": {
+    "name": "hell temple",
+    "festival": "HALLOWEEN"
+  },
+  "ed0397db374ac626200d189215213db1": {
+    "name": "mortuus",
+    "festival": "HALLOWEEN"
+  },
+  "cc223019ead7a97df7b908817f662e17": {
+    "name": "pumpkin bay",
+    "festival": "HALLOWEEN"
+  },
+  "9ad8d84dc31601ef89c4e03971f156a4": {
+    "name": "unchained",
+    "festival": "HALLOWEEN"
+  },
+  "02d8758e9401ee82d23d9644c58a436d": {
+    "name": "holmgang",
+    "festival": "NONE"
+  },
+  "68095bfe906accc4c0869943e9f339d5": {
+    "name": "horizon",
+    "festival": "NONE"
+  },
+  "e8cdd9ec9f1c62395c770234564801dd": {
+    "name": "invasion",
+    "festival": "NONE"
+  },
+  "949c82a1c4957c40edb9a9c89d8a459b": {
+    "name": "jurassic",
+    "festival": "NONE"
+  },
+  "dee769a4b79ba713e3967a81f8692787": {
+    "name": "katsu",
+    "festival": "NONE"
+  },
+  "2e6e5e4009a2229df9febe151ae4c9da": {
+    "name": "kubo",
+    "festival": "NONE"
+  },
+  "4cd2740f82ffbd83644a7220172ba21d": {
+    "name": "lectus",
+    "festival": "NONE"
+  },
+  "def304347fb94d357864fbcd41b1e496": {
+    "name": "orientwood",
+    "festival": "LUNAR"
+  },
+  "44d0d21d1fdadac366b1cf49399d4a46": {
+    "name": "sky festival",
+    "festival": "LUNAR"
+  },
+  "835c543db5d6e4e40a32506e85f4602a": {
+    "name": "tigris",
+    "festival": "LUNAR"
+  },
+  "5ff6d9ac6ec3c05e29d88db3fde4e16e": {
+    "name": "usagi",
+    "festival": "LUNAR"
+  },
+  "2ebb63cda14de9a065c9017d7d80a59b": {
+    "name": "obelisk",
+    "festival": "NONE"
+  },
+  "d1e65d4d21254195e889f2419064b213": {
+    "name": "paladin",
+    "festival": "NONE"
+  },
+  "8aa8df338a8829b5beccd09447753612": {
+    "name": "paradox",
+    "festival": "NONE"
+  },
+  "6b40c0d9034232f821c3b8365208045d": {
+    "name": "pharaoh",
+    "festival": "NONE"
+  },
+  "6f68d5d4d6606112aa0a19396caff955": {
+    "name": "planet 98",
+    "festival": "NONE"
+  },
+  "9eda2f64f72afb1a1fc6a42693314d5f": {
+    "name": "pool party",
+    "festival": "NONE"
+  },
+  "04e11939030e9816192bd37b40cfd254": {
+    "name": "relic",
+    "festival": "NONE"
+  },
+  "87b87eeeaeb6972d51d2b60a2522f495": {
+    "name": "rise",
+    "festival": "NONE"
+  },
+  "4ecfec77b8f6de746a658540e93a2263": {
+    "name": "stilted",
+    "festival": "NONE"
+  },
+  "d4135a4af4e5c7931643da7d2f53dcb9": {
+    "name": "stonekeep",
+    "festival": "NONE"
+  },
+  "f82df95a384981d41c3878768021a490": {
+    "name": "boardwalk",
+    "festival": "SUMMER"
+  },
+  "0e84101706effddfe4469de9b19c62e7": {
+    "name": "coastal",
+    "festival": "SUMMER"
+  },
+  "b09cbac569255a90885af6061def9da0": {
+    "name": "sandcastle",
+    "festival": "SUMMER"
+  },
+  "f1a61bcbccbc76926c05b58359ba87cf": {
+    "name": "shark attack",
+    "festival": "SUMMER"
+  },
+  "e8c742a0b8791d2edbb39a328f6c6a89": {
+    "name": "swashbuckle",
+    "festival": "NONE"
+  },
+  "947ef5f7988b66c9ba2c55605fec51b3": {
+    "name": "temple",
+    "festival": "NONE"
+  },
+  "d2ffaf8c103fb26aae8f5083e4ff212e": {
+    "name": "terminal",
+    "festival": "NONE"
+  },
+  "6eed59f831c7f517d59733a67c1b2ec1": {
+    "name": "treenan",
+    "festival": "NONE"
+  },
+  "3b1975521be823fd3de2a89ed79aac0c": {
+    "name": "unturned",
+    "festival": "NONE"
+  },
+  "a95f85e09d49ce000c92fa007daa67ca": {
+    "name": "comet",
+    "festival": "WINTER"
+  },
+  "02e27e5c109e67ab548c771ddfa7e41e": {
+    "name": "gingerbread",
+    "festival": "WINTER"
+  },
+  "e84320bf0dbe7360fc33cbb0d9d38880": {
+    "name": "grotto",
+    "festival": "WINTER"
+  },
+  "45028aa83f455803210ee41ebcabf908": {
+    "name": "loft",
+    "festival": "WINTER"
+  },
+  "ec115f1b283d24f02fe33b904df17671": {
+    "name": "santa's rush",
+    "festival": "WINTER"
+  },
+  "967923bdfc759e41c0ceefba4647dd80": {
+    "name": "snowkeep",
+    "festival": "WINTER"
+  },
+  "cd83e845a2c23ae0479e8cb54bca4129": {
+    "name": "zen plaza",
+    "festival": "NONE"
+  }
+}
