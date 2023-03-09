@@ -6,6 +6,44 @@ const FormData = require("form-data");
 const maps = require("./maps.json");
 const webhooks = require("./webhooks.json");
 
+const colours = Object.freeze({
+    BLACK: "#000000",
+    DARK_BLUE: "#0000AA",
+    DARK_GREEN: "#00AA00",
+    DARK_AQUA: "#00AAAA",
+    DARK_RED: "#AA0000",
+    DARK_PURPLE: "#AA00AA",
+    GOLD: "#FFAA00",
+    GRAY: "#AAAAAA",
+    DARK_GRAY: "#555555",
+    BLUE: "#5555FF",
+    GREEN: "#55FF55",
+    AQUA: "#55FFFF",
+    RED: "#FF5555",
+    LIGHT_PURPLE: "#FF55FF",
+    YELLOW: "#FFFF55",
+    WHITE: "#FFFFFF"
+});
+
+const shadows = new Map([
+    [colours.BLACK, "#000000"],
+    [colours.DARK_BLUE, "#00002A"],
+    [colours.DARK_GREEN, "#002A00"],
+    [colours.DARK_AQUA, "#002A2A"],
+    [colours.DARK_RED, "#2A0000"],
+    [colours.DARK_PURPLE, "#2A002A"],
+    [colours.GOLD, "#2A2A00"],
+    [colours.GRAY, "#2A2A2A"],
+    [colours.DARK_GRAY, "#151515"],
+    [colours.BLUE, "#15153F"],
+    [colours.GREEN, "#153F15"],
+    [colours.AQUA, "#153F3F"],
+    [colours.RED, "#3F1515"],
+    [colours.LIGHT_PURPLE, "#3F153F"],
+    [colours.YELLOW, "#3F3F15"],
+    [colours.WHITE, "#3F3F3F"]
+]);
+
 const POOLS = Object.freeze({
     BEDWARS_8TEAMS_SLOW: "8 Teams\nLong & Tactical",
     BEDWARS_8TEAMS_FAST: "8 Teams\nQuick & Rushy",
@@ -90,12 +128,10 @@ async function updateRotation(rotationId) {
     for (const [pool, title] of Object.entries(POOLS)) {
         drawRoundedRect(ctx, x, y, rect.width, rect.height, rect.radius);
 
-        ctx.fillStyle = "#5555FF";
-
         let index = 0;
         title.split("\n").forEach(part => {
             ctx.font = index % 2 === 0 ? "32px Minecraft" : "20px Minecraft";
-            ctx.fillText(part, x + (rect.width / 2 - ctx.measureText(part).width / 2), y + (36 * (index + 1)));
+            shadowText(part, x + (rect.width / 2 - ctx.measureText(part).width / 2), y + (36 * (index + 1)), colours.BLUE);
             index++;
         });
 
@@ -215,4 +251,12 @@ function drawRoundedRect(ctx, x, y, width, height, borderRadius) {
 
     ctx.fillStyle = "rgba(0,0,0,0.4)";
     ctx.fill();
+}
+
+function shadowText(text, x, y, color) {
+    ctx.fillStyle = shadows.get(color);
+    ctx.fillText(text, x + 6, y + 6);
+
+    ctx.fillStyle = color;
+    ctx.fillText(text, x, y);
 }
